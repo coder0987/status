@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 936,
-    "timeDay": 936,
-    "timeWeek": 936,
-    "timeMonth": 936,
-    "timeYear": 936,
+    "time": 728,
+    "timeDay": 728,
+    "timeWeek": 728,
+    "timeMonth": 728,
+    "timeYear": 728,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://sso.smach.us",
     "icon": "https://icons.duckduckgo.com/ip3/sso.smach.us.ico",
     "slug": "mach-sso",
-    "status": "down",
-    "uptime": "0.71%",
-    "uptimeDay": "0.71%",
-    "uptimeWeek": "0.71%",
-    "uptimeMonth": "0.71%",
-    "uptimeYear": "0.71%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
+    "time": 379,
+    "timeDay": 379,
+    "timeWeek": 379,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2024-09-07": 70
+      "2024-09-07": 99
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 869,
-    "timeDay": 869,
-    "timeWeek": 869,
-    "timeMonth": 869,
-    "timeYear": 869,
+    "time": 647,
+    "timeDay": 647,
+    "timeWeek": 647,
+    "timeMonth": 647,
+    "timeYear": 647,
     "dailyMinutesDown": {}
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://samuelmach.com",
     "icon": "https://icons.duckduckgo.com/ip3/samuelmach.com.ico",
     "slug": "samuel-mach",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 723,
-    "timeDay": 723,
-    "timeWeek": 723,
-    "timeMonth": 723,
-    "timeYear": 723,
+    "status": "up",
+    "uptime": "70.55%",
+    "uptimeDay": "70.55%",
+    "uptimeWeek": "70.55%",
+    "uptimeMonth": "70.55%",
+    "uptimeYear": "70.55%",
+    "time": 594,
+    "timeDay": 594,
+    "timeWeek": 594,
+    "timeMonth": 594,
+    "timeYear": 594,
     "dailyMinutesDown": {
-      "2024-09-07": 0
+      "2024-09-07": 29
     }
   }
 ]

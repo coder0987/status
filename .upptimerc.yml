@@ -18,7 +18,7 @@ status-website:
   cname: status.smach.us
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status | MachTarok, SMACH.US, and SamuelMach.com
+  name: Status
   introTitle: "See the live status of MachTarok.com"
   navbar:
     - title: Status

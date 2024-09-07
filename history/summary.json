@@ -4,19 +4,19 @@
     "url": "https://machtarok.com",
     "icon": "https://icons.duckduckgo.com/ip3/machtarok.com.ico",
     "slug": "mach-tarok",
-    "status": "down",
-    "uptime": "83.04%",
-    "uptimeDay": "83.04%",
-    "uptimeWeek": "83.04%",
-    "uptimeMonth": "83.04%",
-    "uptimeYear": "83.04%",
-    "time": 473,
-    "timeDay": 473,
-    "timeWeek": 473,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "status": "up",
+    "uptime": "80.21%",
+    "uptimeDay": "80.21%",
+    "uptimeWeek": "80.21%",
+    "uptimeMonth": "80.21%",
+    "uptimeYear": "80.21%",
+    "time": 454,
+    "timeDay": 454,
+    "timeWeek": 454,
+    "timeMonth": 454,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2024-09-07": 187
+      "2024-09-07": 226
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sso.smach.us",
     "icon": "https://icons.duckduckgo.com/ip3/sso.smach.us.ico",
     "slug": "mach-sso",
-    "status": "down",
-    "uptime": "74.98%",
-    "uptimeDay": "74.98%",
-    "uptimeWeek": "74.98%",
-    "uptimeMonth": "74.98%",
-    "uptimeYear": "74.98%",
-    "time": 294,
-    "timeDay": 294,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "status": "up",
+    "uptime": "72.42%",
+    "uptimeDay": "72.42%",
+    "uptimeWeek": "72.42%",
+    "uptimeMonth": "72.42%",
+    "uptimeYear": "72.42%",
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2024-09-07": 276
+      "2024-09-07": 315
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://smach.us",
     "icon": "https://icons.duckduckgo.com/ip3/smach.us.ico",
     "slug": "smach-us",
-    "status": "down",
-    "uptime": "84.20%",
-    "uptimeDay": "84.20%",
-    "uptimeWeek": "84.20%",
-    "uptimeMonth": "84.20%",
-    "uptimeYear": "84.20%",
-    "time": 378,
-    "timeDay": 378,
-    "timeWeek": 378,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "status": "up",
+    "uptime": "81.32%",
+    "uptimeDay": "81.32%",
+    "uptimeWeek": "81.32%",
+    "uptimeMonth": "81.32%",
+    "uptimeYear": "81.32%",
+    "time": 363,
+    "timeDay": 363,
+    "timeWeek": 363,
+    "timeMonth": 363,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2024-09-07": 174
+      "2024-09-07": 213
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://samuelmach.com",
     "icon": "https://icons.duckduckgo.com/ip3/samuelmach.com.ico",
     "slug": "samuel-mach",
-    "status": "down",
-    "uptime": "72.84%",
-    "uptimeDay": "72.84%",
-    "uptimeWeek": "72.84%",
-    "uptimeMonth": "72.84%",
-    "uptimeYear": "72.84%",
-    "time": 421,
-    "timeDay": 421,
-    "timeWeek": 421,
-    "timeMonth": 421,
-    "timeYear": 421,
+    "status": "up",
+    "uptime": "70.35%",
+    "uptimeDay": "70.35%",
+    "uptimeWeek": "70.35%",
+    "uptimeMonth": "70.35%",
+    "uptimeYear": "70.35%",
+    "time": 404,
+    "timeDay": 404,
+    "timeWeek": 404,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {
-      "2024-09-07": 300
+      "2024-09-07": 339
     }
   }
 ]

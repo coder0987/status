@@ -11,6 +11,8 @@ sites:
     url: https://smach.us
   - name: Samuel Mach
     url: https://samuelmach.com
+  - name: Scapular Info
+    url: https://scapularinfo.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

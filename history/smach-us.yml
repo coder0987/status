@@ -1,7 +1,7 @@
 url: https://smach.us
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 236
-lastUpdated: 2025-04-19T23:16:21.197Z
+lastUpdated: 2025-04-20T19:35:02.274Z
 startTime: 2024-09-07T00:42:47.075Z
 generator: Upptime <https://github.com/upptime/upptime>

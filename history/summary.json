@@ -6,8 +6,8 @@
     "slug": "mach-tarok",
     "status": "up",
     "uptime": "97.43%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "95.73%",
     "uptimeYear": "97.43%",
     "time": 386,
@@ -16,7 +16,6 @@
     "timeMonth": 238,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2025-05-27": 3,
       "2025-05-17": 18,
       "2025-05-14": 169,
       "2025-05-13": 1440,

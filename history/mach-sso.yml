@@ -1,7 +1,7 @@
 url: https://sso.smach.us
-status: up
-code: 200
-responseTime: 170
-lastUpdated: 2025-08-19T23:15:09.977Z
+status: down
+code: 530
+responseTime: 295
+lastUpdated: 2025-08-20T17:50:27.532Z
 startTime: 2024-09-07T00:42:15.516Z
 generator: Upptime <https://github.com/upptime/upptime>

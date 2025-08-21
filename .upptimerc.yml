@@ -14,7 +14,7 @@ sites:
   - name: Scapular Info
     url: https://scapularinfo.com
   - name: MachTarok Wiki
-    utl: https://wiki.machtarok.com
+    url: https://wiki.machtarok.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

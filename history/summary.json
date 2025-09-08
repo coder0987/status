@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/machtarok.com.ico",
     "slug": "mach-tarok",
     "status": "up",
-    "uptime": "96.13%",
-    "uptimeDay": "0.01%",
+    "uptime": "96.14%",
+    "uptimeDay": "14.88%",
     "uptimeWeek": "59.44%",
     "uptimeMonth": "89.54%",
-    "uptimeYear": "96.17%",
+    "uptimeYear": "96.18%",
     "time": 343,
-    "timeDay": 220,
-    "timeWeek": 235,
-    "timeMonth": 281,
+    "timeDay": 269,
+    "timeWeek": 241,
+    "timeMonth": 284,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2025-09-07": 1296,
@@ -52,8 +52,7 @@
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1403,
-      "2024-09-09": 73,
-      "2024-09-08": 268
+      "2024-09-09": 73
     }
   },
   {
@@ -63,15 +62,15 @@
     "slug": "mach-sso",
     "status": "up",
     "uptime": "97.55%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "14.88%",
     "uptimeWeek": "59.44%",
     "uptimeMonth": "89.54%",
-    "uptimeYear": "97.60%",
+    "uptimeYear": "97.61%",
     "time": 256,
-    "timeDay": 240,
-    "timeWeek": 217,
-    "timeMonth": 222,
-    "timeYear": 256,
+    "timeDay": 269,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2025-09-07": 1296,
       "2025-09-06": 1440,
@@ -100,8 +99,7 @@
       "2024-09-20": 154,
       "2024-09-19": 486,
       "2024-09-10": 181,
-      "2024-09-09": 197,
-      "2024-09-08": 266
+      "2024-09-09": 197
     }
   },
   {
@@ -114,11 +112,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.79%",
+    "uptimeYear": "97.80%",
     "time": 319,
-    "timeDay": 195,
-    "timeWeek": 274,
-    "timeMonth": 241,
+    "timeDay": 120,
+    "timeWeek": 264,
+    "timeMonth": 239,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2025-08-26": 19,
@@ -155,8 +153,7 @@
       "2024-09-20": 154,
       "2024-09-19": 461,
       "2024-09-10": 181,
-      "2024-09-09": 27,
-      "2024-09-08": 447
+      "2024-09-09": 27
     }
   },
   {
@@ -169,12 +166,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 363,
-    "timeDay": 215,
-    "timeWeek": 260,
-    "timeMonth": 307,
-    "timeYear": 363,
+    "timeDay": 202,
+    "timeWeek": 262,
+    "timeMonth": 304,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2025-08-26": 19,
       "2025-07-28": 19,
@@ -197,8 +194,7 @@
       "2024-09-20": 154,
       "2024-09-19": 453,
       "2024-09-10": 219,
-      "2024-09-09": 182,
-      "2024-09-08": 400
+      "2024-09-09": 182
     }
   },
   {
@@ -213,8 +209,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.83%",
     "time": 256,
-    "timeDay": 182,
-    "timeWeek": 310,
+    "timeDay": 257,
+    "timeWeek": 309,
     "timeMonth": 292,
     "timeYear": 256,
     "dailyMinutesDown": {
@@ -250,8 +246,7 @@
       "2024-09-20": 154,
       "2024-09-19": 430,
       "2024-09-10": 192,
-      "2024-09-09": 271,
-      "2024-09-08": 252
+      "2024-09-09": 271
     }
   },
   {
@@ -260,14 +255,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.machtarok.com.ico",
     "slug": "mach-tarok-wiki",
     "status": "up",
-    "uptime": "83.68%",
-    "uptimeDay": "0.02%",
+    "uptime": "83.82%",
+    "uptimeDay": "14.88%",
     "uptimeWeek": "59.44%",
-    "uptimeMonth": "83.68%",
-    "uptimeYear": "83.68%",
+    "uptimeMonth": "83.82%",
+    "uptimeYear": "83.82%",
     "time": 512,
-    "timeDay": 787,
-    "timeWeek": 494,
+    "timeDay": 968,
+    "timeWeek": 511,
     "timeMonth": 512,
     "timeYear": 512,
     "dailyMinutesDown": {

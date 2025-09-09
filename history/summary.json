@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/machtarok.com.ico",
     "slug": "mach-tarok",
     "status": "down",
-    "uptime": "96.14%",
-    "uptimeDay": "88.08%",
-    "uptimeWeek": "59.44%",
-    "uptimeMonth": "89.54%",
-    "uptimeYear": "96.21%",
+    "uptime": "96.07%",
+    "uptimeDay": "73.40%",
+    "uptimeWeek": "55.64%",
+    "uptimeMonth": "88.66%",
+    "uptimeYear": "96.16%",
     "time": 343,
-    "timeDay": 383,
-    "timeWeek": 278,
-    "timeMonth": 292,
+    "timeDay": 447,
+    "timeWeek": 279,
+    "timeMonth": 295,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2025-09-08": 0,
+      "2025-09-09": 67,
+      "2025-09-08": 316,
       "2025-09-07": 1296,
       "2025-09-06": 1440,
       "2025-09-05": 1353,
@@ -52,8 +53,7 @@
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
-      "2024-09-10": 1403,
-      "2024-09-09": 73
+      "2024-09-10": 1403
     }
   },
   {
@@ -62,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.smach.us.ico",
     "slug": "mach-sso",
     "status": "down",
-    "uptime": "97.55%",
-    "uptimeDay": "88.08%",
-    "uptimeWeek": "59.44%",
-    "uptimeMonth": "89.54%",
-    "uptimeYear": "97.65%",
+    "uptime": "97.48%",
+    "uptimeDay": "73.40%",
+    "uptimeWeek": "55.64%",
+    "uptimeMonth": "88.66%",
+    "uptimeYear": "97.59%",
     "time": 257,
-    "timeDay": 382,
-    "timeWeek": 263,
-    "timeMonth": 233,
+    "timeDay": 430,
+    "timeWeek": 262,
+    "timeMonth": 236,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-09-08": 0,
+      "2025-09-09": 67,
+      "2025-09-08": 316,
       "2025-09-07": 1296,
       "2025-09-06": 1440,
       "2025-09-05": 1353,
@@ -100,8 +101,7 @@
       "2024-11-21": 4,
       "2024-09-20": 154,
       "2024-09-19": 486,
-      "2024-09-10": 181,
-      "2024-09-09": 197
+      "2024-09-10": 181
     }
   },
   {
@@ -114,11 +114,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.84%",
-    "time": 319,
-    "timeDay": 120,
-    "timeWeek": 264,
-    "timeMonth": 239,
+    "uptimeYear": "97.88%",
+    "time": 318,
+    "timeDay": 203,
+    "timeWeek": 259,
+    "timeMonth": 240,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2025-08-26": 19,
@@ -154,8 +154,7 @@
       "2024-11-21": 4,
       "2024-09-20": 154,
       "2024-09-19": 461,
-      "2024-09-10": 181,
-      "2024-09-09": 27
+      "2024-09-10": 181
     }
   },
   {
@@ -168,12 +167,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 363,
-    "timeDay": 202,
-    "timeWeek": 262,
+    "timeDay": 238,
+    "timeWeek": 257,
     "timeMonth": 304,
-    "timeYear": 362,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2025-08-26": 19,
       "2025-07-28": 19,
@@ -195,8 +194,7 @@
       "2024-11-21": 3,
       "2024-09-20": 154,
       "2024-09-19": 453,
-      "2024-09-10": 219,
-      "2024-09-09": 182
+      "2024-09-10": 219
     }
   },
   {
@@ -209,11 +207,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.86%",
+    "uptimeYear": "97.88%",
     "time": 256,
-    "timeDay": 257,
-    "timeWeek": 309,
-    "timeMonth": 292,
+    "timeDay": 233,
+    "timeWeek": 307,
+    "timeMonth": 293,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2025-08-26": 19,
@@ -247,8 +245,7 @@
       "2024-11-21": 3,
       "2024-09-20": 154,
       "2024-09-19": 430,
-      "2024-09-10": 192,
-      "2024-09-09": 271
+      "2024-09-10": 192
     }
   },
   {
@@ -257,18 +254,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.machtarok.com.ico",
     "slug": "mach-tarok-wiki",
     "status": "down",
-    "uptime": "84.12%",
-    "uptimeDay": "81.71%",
-    "uptimeWeek": "58.52%",
-    "uptimeMonth": "84.12%",
-    "uptimeYear": "84.12%",
-    "time": 506,
-    "timeDay": 773,
-    "timeWeek": 498,
-    "timeMonth": 506,
-    "timeYear": 506,
+    "uptime": "82.91%",
+    "uptimeDay": "67.03%",
+    "uptimeWeek": "54.73%",
+    "uptimeMonth": "82.91%",
+    "uptimeYear": "82.91%",
+    "time": 502,
+    "timeDay": 394,
+    "timeWeek": 476,
+    "timeMonth": 502,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-09-08": 92,
+      "2025-09-09": 67,
+      "2025-09-08": 407,
       "2025-09-07": 1296,
       "2025-09-06": 1440,
       "2025-09-05": 1353

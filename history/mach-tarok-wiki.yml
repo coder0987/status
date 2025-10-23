@@ -1,7 +1,7 @@
 url: https://wiki.machtarok.com
-status: up
-code: 200
-responseTime: 466
-lastUpdated: 2025-10-22T23:13:32.492Z
+status: down
+code: 502
+responseTime: 229
+lastUpdated: 2025-10-23T01:14:02.402Z
 startTime: 2025-08-21T11:57:36.621Z
 generator: Upptime <https://github.com/upptime/upptime>

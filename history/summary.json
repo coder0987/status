@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/machtarok.com.ico",
     "slug": "mach-tarok",
     "status": "up",
-    "uptime": "93.18%",
+    "uptime": "93.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "91.26%",
+    "uptimeYear": "91.29%",
     "time": 242,
-    "timeDay": 173,
-    "timeWeek": 232,
-    "timeMonth": 237,
-    "timeYear": 239,
+    "timeDay": 342,
+    "timeWeek": 249,
+    "timeMonth": 242,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2026-02-13": 34,
       "2026-01-30": 105,
@@ -68,8 +68,7 @@
       "2025-05-04": 42,
       "2025-04-24": 28,
       "2025-04-09": 19,
-      "2025-03-22": 140,
-      "2025-03-05": 113
+      "2025-03-22": 140
     }
   },
   {
@@ -78,16 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.smach.us.ico",
     "slug": "mach-sso",
     "status": "up",
-    "uptime": "94.11%",
+    "uptime": "94.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "91.59%",
+    "uptimeYear": "91.62%",
     "time": 214,
-    "timeDay": 161,
-    "timeWeek": 183,
-    "timeMonth": 206,
-    "timeYear": 209,
+    "timeDay": 231,
+    "timeWeek": 187,
+    "timeMonth": 208,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2026-02-17": 56,
       "2026-01-30": 105,
@@ -137,8 +136,7 @@
       "2025-06-09": 41,
       "2025-04-24": 28,
       "2025-04-09": 19,
-      "2025-03-22": 140,
-      "2025-03-05": 113
+      "2025-03-22": 140
     }
   },
   {
@@ -147,18 +145,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smach.us.ico",
     "slug": "smach-us",
     "status": "down",
-    "uptime": "74.15%",
+    "uptime": "74.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "62.00%",
+    "uptimeYear": "61.88%",
     "time": 232,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 238,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2026-03-04": 102,
+      "2026-03-05": 104,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -314,8 +313,7 @@
       "2025-03-22": 140,
       "2025-03-08": 1299,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -324,16 +322,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/samuelmach.com.ico",
     "slug": "samuel-mach",
     "status": "up",
-    "uptime": "95.31%",
+    "uptime": "95.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.38%",
+    "uptimeYear": "93.41%",
     "time": 258,
-    "timeDay": 185,
-    "timeWeek": 235,
+    "timeDay": 230,
+    "timeWeek": 226,
     "timeMonth": 249,
-    "timeYear": 247,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2026-02-02": 32,
       "2026-01-30": 106,
@@ -378,8 +376,7 @@
       "2025-04-24": 30,
       "2025-04-09": 19,
       "2025-03-22": 140,
-      "2025-03-18": 17,
-      "2025-03-05": 114
+      "2025-03-18": 17
     }
   },
   {
@@ -388,18 +385,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/scapularinfo.com.ico",
     "slug": "scapular-info",
     "status": "down",
-    "uptime": "74.16%",
+    "uptime": "74.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "62.04%",
+    "uptimeYear": "61.91%",
     "time": 239,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 236,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2026-03-04": 102,
+      "2026-03-05": 104,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -553,8 +551,7 @@
       "2025-03-22": 140,
       "2025-03-08": 1299,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -563,18 +560,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.machtarok.com.ico",
     "slug": "mach-tarok-wiki",
     "status": "down",
-    "uptime": "33.26%",
+    "uptime": "33.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "33.26%",
+    "uptimeYear": "33.09%",
     "time": 316,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2026-03-04": 102,
+      "2026-03-05": 104,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
